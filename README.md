@@ -7,9 +7,9 @@ The Navigation bar will have Homepage button which will redirect us to home page
 # How Download and Run on your Device
 
 Click on Clone or Download.
-Click on Download Zip file.
-Make a new folder, name it as per your wish and Extraxt the downloaded zip in that folder.
-Open Command Prompt and navigate to the root directory of the extracted file.
-Type in command "npm install". This will install all node modules necessary to run the app.
-After all node modules are installed properly, run the command "npm start".
-This will initiate app and you can see the Single Page Application on localhost:3000
+Download the Zip File
+Create the new folder in your device and move your zip into that and unzip it.
+Open Terminal window and set the path to root directory.
+Type in command "npm install". to install npm.
+After installing the npm. write command "npm Start".
+This will start your Single Page Application on localhost:3000.
